@@ -1,4 +1,5 @@
 ### Hi there 👋
+![BANNER](https://github.com/daffadziibaankhoiri/daffadziibaankhoiri/blob/main/Daffa%20Dziiba%E2%80%99an%20Khoiri.png)
 
 ### 🛠 &nbsp;SKill
 
