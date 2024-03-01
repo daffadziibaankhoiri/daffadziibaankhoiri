@@ -1,6 +1,8 @@
-### Hi there 👋
+
 ![BANNER](https://github.com/daffadziibaankhoiri/daffadziibaankhoiri/blob/main/Daffa%20Dziiba%E2%80%99an%20Khoiri.png)
 
+### Hi there 👋
+[![Yash's github stats](https://github-readme-stats.vercel.app/api?username=daffadziibaankhoiri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 ### 🛠 &nbsp;SKill
 
 
@@ -14,7 +16,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laaravel-05122A?style=flat&logo=laravel)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FBA834)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=FBA834)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
 
 <!--
 **daffadziibaankhoiri/daffadziibaankhoiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
