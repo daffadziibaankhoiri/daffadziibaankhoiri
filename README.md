@@ -16,8 +16,13 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laaravel-05122A?style=flat&logo=laravel)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FBA834)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=711DB0)&nbsp;
 
+### 📫 &nbsp; How to reach me:
+
+<a href="mailto:daffa.dziibaan.khoiri@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/daffa-dziiba-an-khoiri-9ab540267/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<!-- <a href="https://instagram.com/yashmakan"><img src="https://img.shields.io/badge/-@yashmakan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;-->
 <!--
 **daffadziibaankhoiri/daffadziibaankhoiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
