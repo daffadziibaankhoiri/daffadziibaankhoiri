@@ -14,7 +14,7 @@
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp&logoColor=FFFFFF)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)\
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laaravel-05122A?style=flat&logo=laravel)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FBA834)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=711DB0)&nbsp;
 
