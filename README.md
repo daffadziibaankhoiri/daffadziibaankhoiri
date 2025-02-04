@@ -5,12 +5,12 @@
 [![Yash's github stats](https://github-readme-stats.vercel.app/api?username=daffadziibaankhoiri\&rank_icon=github&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 ### 🛠 &nbsp;SKill
 
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)\
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=42A5F5)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=42A5F5)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=42A5F5)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp&logoColor=FFFFFF)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 
