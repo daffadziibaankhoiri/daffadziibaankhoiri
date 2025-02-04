@@ -1,5 +1,5 @@
   
-![BANNER](https://github.com/daffadziibaankhoiri/daffadziibaankhoiri/blob/main/Daffa%20Dziiba%E2%80%99an%20Khoiri.png)
+
 
 ### Hi there 👋
 [![Yash's github stats](https://github-readme-stats.vercel.app/api?username=daffadziibaankhoiri\&rank_icon=github&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
